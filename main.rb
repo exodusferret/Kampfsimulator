@@ -4,7 +4,7 @@ require_relative 'lib/hero'
 require_relative 'lib/monster'
 require_relative 'lib/random_array_item'
 
-conan = Hero.new :name => "Conan the barbarian", :str => 4, :con => 2
+conan = Hero.new :name => "Lucy the Maiden", :str => 4, :con => 2
 
 enemies = []
 10.times do |i|
